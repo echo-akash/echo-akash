@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Akash Poddar
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=echo-akash&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Lives-Bangladesh-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-brightgreen" />
+</p>
+<br>
 
 <h2 align="center">About me</h2>
 
