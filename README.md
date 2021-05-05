@@ -79,9 +79,9 @@ func GetBio() Bio {
 <h2 align="center">Github stats :bar_chart:</h2>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-akash&langs_count=12&theme=tokyonight&layout=compact" alt="Akash Poddar :: Top Langs" />
+<img align ="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-akash&langs_count=12&theme=tokyonight&layout=compact" alt="Akash Poddar :: Top Langs" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=echo-akash&show_icons=true&theme=synthwave" alt="Akash Poddar :: Profile Stats" />
+<img align ="center" src="https://github-readme-stats.vercel.app/api?username=echo-akash&show_icons=true&theme=synthwave" alt="Akash Poddar :: Profile Stats" />
 
 
 
