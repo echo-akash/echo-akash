@@ -1,24 +1,7 @@
 
-<!--
-### Hi there 👋
 
-**echo-akash/echo-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Akash Poddar </h1>
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=echo-akash&color=brightgreen" alt="watching_count" />
- </p>
+
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Lives-Bangladesh-success" />
@@ -77,5 +60,8 @@ func GetBio() Bio {
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=echo-akash&show_icons=true&theme=synthwave" alt="echo-akash :: Profile Stats" /></p>
 
-
+<br>
+<p align="right"> 
+<img src="https://komarev.com/ghpvc/?username=echo-akash&color=brightgreen" alt="watching_count" />
+ </p>
 ----
