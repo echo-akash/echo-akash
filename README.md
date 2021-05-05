@@ -36,10 +36,10 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-synthWave-cyberPunk-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
+		"- ⚡ Quick bio:":                    "Dedicated and creative neophyte, who has been working in software, research, business analysis and project management is eager to demonstrate innovation and leadership in the IT industry.",
+		"- 🔭 I’m currently working on":      "@ SciTech Academy as a STEM Educator  --- @ SciTech Innovations Limited as a Business Analyst",
+		"- 🌱 I’m currently learning":        "In love with learning business analysis, project management, cloud server management. Sharpening my skills in Python",
+		"- 👯 I’m looking to collaborate on": "Python and Docker related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
 		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
