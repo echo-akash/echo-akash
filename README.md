@@ -70,13 +70,14 @@ func GetBio() Bio {
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
+<div style="align:left">
 <h4 align="center">Top langs :tongue:</h4>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-akash&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+</div>
 
+<div style="align:right">
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=echo-akash&show_icons=true&theme=synthwave" alt="echo-akash :: Profile Stats" /></p>
-
+</div>
 
 ----
