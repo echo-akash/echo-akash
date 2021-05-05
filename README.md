@@ -75,10 +75,10 @@ func GetBio() Bio {
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="left">Top langs :tongue:</h4>
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-akash&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="right">Profile stats :musical_keyboard:</h4>
 <p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=echo-akash&show_icons=true&theme=synthwave" alt="echo-akash :: Profile Stats" /></p>
 
 <br>
