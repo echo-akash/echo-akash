@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Akash Poddar
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Akash Poddar </h1>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=echo-akash&color=brightgreen" alt="watching_count" />
  </p>
