@@ -32,10 +32,10 @@ func GetBio() Bio {
 	return Bio{
 		"- ⚡ Quick bio:":                    "Dedicated and creative neophyte, who has been working in software, research, business analysis and project management is eager to demonstrate innovation and leadership in the IT industry.",
 		"- 🔭 I’m currently working on":      "@ SciTech Academy as a STEM Educator  --- @ SciTech Innovations Limited as a Business Analyst",
-		"- 🌱 I’m currently learning":        "In love with learning business analysis, project management, cloud server management. Sharpening my skills in Python, Machine Learning",
+		"- 🌱 I’m currently learning":        "In love with learning business analysis, project management, cloud server management. Sharpening my skills in Python, Machine Learning, Data Mining & Analysis",
 		"- 👯 I’m looking to collaborate on": "Python and Docker related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, Business Analysis, Machine Learning",
+		"- 💬 Ask me about":                  "Python, Business Analysis, Machine Learning, Data Mining & Analysis",
 		"- 📫 How to reach me:":              "https://echo-akash.github.io/",
 	}
 }
