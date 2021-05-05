@@ -78,11 +78,11 @@ func GetBio() Bio {
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 float="left">Top langs :tongue:</h4>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-akash&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<h4 align="left">Top langs :tongue:</h4>
+<p float="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-akash&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 float="right">Profile stats :musical_keyboard:</h4>
-<p align="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=echo-akash&show_icons=true&theme=synthwave" alt="echo-akash :: Profile Stats" /></p>
+<h4 align="right">Profile stats :musical_keyboard:</h4>
+<p float="right"><img align="right" src="https://github-readme-stats.vercel.app/api?username=echo-akash&show_icons=true&theme=synthwave" alt="echo-akash :: Profile Stats" /></p>
 
 
 
