@@ -4,7 +4,7 @@
 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Lives-Bangladesh-success" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-brightgreen" />
 	<img src="https://komarev.com/ghpvc/?username=echo-akash&color=brightgreen" alt="watching_count" />
 </p>
