@@ -18,15 +18,15 @@ Product Manager • AI Products • Marketplace Platforms • Growth Systems
 
 Product Manager with **5+ years of experience building and scaling consumer marketplaces, SaaS platforms, and AI-powered products.**
 
-I specialize in:
+I focus on building products that combine **user insight, data, and experimentation** to drive measurable impact.
+
+Core areas I work on:
 
 • Product Strategy & Roadmapping  
 • Growth Systems & Experimentation  
 • Search, Discovery & Recommendation Systems  
 • AI Product Development & LLM Workflows  
 • Marketplace Optimization & Monetization  
-
-I enjoy turning **customer insights and data into product decisions** that drive measurable business impact.
 
 ---
 
@@ -48,7 +48,7 @@ Focus areas:
 
 # 📈 Selected Product Impact
 
-### Marketplace Growth (Pathao Food)
+### Marketplace Growth — Pathao Food
 
 • Increased **Food Home → Restaurant conversion from 25% → 32% (+28% lift)** through funnel optimization and experimentation.
 
@@ -56,33 +56,33 @@ Focus areas:
 
 • Redesigned **search ranking engine**, increasing search-to-order conversion by **22%**.
 
-• Implemented **cart abandonment recovery**, recovering **6% abandoned carts** and improving reorder basket size by **20%**.
+• Implemented **cart abandonment recovery**, recovering **6% abandoned carts** and increasing reorder basket size by **20%**.
 
 ---
 
 ### Monetization & Growth Systems
 
-• Built **promo recommendation & stacking systems** increasing promo-to-order conversion by **18%**.
+• Built **promo recommendation & stacking systems**, increasing promo-to-order conversion by **18%**.
 
-• Launched **paid keyword boosting for restaurants**, creating a new revenue stream.
+• Introduced **paid keyword boosting**, creating a new monetization stream for restaurant partners.
 
-• Introduced **co-funded promotions**, improving campaign ROI by **20%+**.
+• Launched **co-funded promotions**, improving campaign ROI by **20%+**.
 
 ---
 
 ### Platform & Ecosystem Scaling
 
-• Designed **POS API integration framework**, reducing partner onboarding time by **35%**.
+• Built **POS API integration framework**, reducing partner onboarding time by **35%**.
 
 • Led **Restaurant Web platform revamp**, reducing operational errors by **20%+**.
 
-• Implemented **RBAC and multi-branch management**, reducing unauthorized access by **90%**.
+• Implemented **RBAC and multi-branch account management**, reducing unauthorized access incidents by **90%**.
 
 ---
 
-# 🧠 Product Interests
+# 🧠 Product Focus
 
-I’m particularly interested in building products around:
+I’m especially interested in building products around:
 
 • AI Product Platforms  
 • Product-Led Growth (PLG)  
@@ -96,34 +96,36 @@ I’m particularly interested in building products around:
 # 🛠 Product Tools & Technology
 
 ### Product Management
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/trello.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/asana.svg"></code>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+
+### Collaboration
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 ### Design & UX
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/whimsical.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/lucidchart.svg"></code>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+<img height="40" src="https://cdn.simpleicons.org/miro/050038">
+<img height="40" src="https://cdn.simpleicons.org/lucidchart/F36D21">
 
 ### AI & Data
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/openai-2.svg"></code>
-<code><img height="40" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<img height="40" src="https://cdn.simpleicons.org/openai/412991">
+<img height="40" src="https://cdn.simpleicons.org/langchain/000000">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
 
 ### Analytics & Growth
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ahrefs.svg"></code>
+<img height="40" src="https://cdn.simpleicons.org/googleanalytics/E37400">
+<img height="40" src="https://cdn.simpleicons.org/googlesearchconsole/458CF5">
+<img height="40" src="https://cdn.simpleicons.org/ahrefs/FF8800">
 
 ### Engineering Awareness
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
 ---
 
@@ -132,23 +134,11 @@ I’m particularly interested in building products around:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/akash-poddar/">
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30">
 </a>
 
 <a href="https://echo-akash.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue">
 </a>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=echo-akash&show_icons=true&theme=synthwave" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=echo-akash&layout=compact&theme=tokyonight" />
 
 </p>
