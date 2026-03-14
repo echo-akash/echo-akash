@@ -30,12 +30,12 @@ func main() {
 
 func GetBio() Bio {
 	return Bio{
-		"- ⚡ Quick bio:":                    "I am a passionate and results-driven Product Management professional with a proven track record of driving innovation, growth, and efficiency across diverse platforms and industries. With over five years of experience in leading cross-functional teams, designing user-centric solutions, and leveraging data-driven insights, I thrive at the intersection of technology, business, and customer experience.",
-		"- 🔭 I’m currently working on":      "@ Pathao Limited as Associate Product Manager",
-		"- 🌱 I’m currently learning":        "In love with learning business analysis, product management, cloud server management. Sharpening my skills in Python, Machine Learning, Data Mining & Analysis",
-		"- 👯 I’m looking to collaborate on": "Python and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Product Management, Python, Business Analysis, Machine Learning, Data Mining & Analysis",
+		"- ⚡ Quick bio:":                    "Product Manager with 5+ years of experience building and scaling consumer marketplaces and SaaS platforms. I specialize in growth systems, product experimentation, search & discovery optimization, and monetization strategies. Passionate about turning customer insights and data into product decisions that drive measurable impact.",
+		"- 🔭 I’m currently working on":      "Building AI-powered UX design and prototyping tools at UX Pilot AI",
+		"- 🌱 I’m currently learning":        "AI product development, LLM-powered workflows, product-led growth, and scalable experimentation systems",
+		"- 👯 I’m looking to collaborate on": "AI product tools, SaaS platforms, and developer tools that simplify design and product workflows",
+		"- 🤔 I’m looking for help with":     "Advanced AI product architecture, LLM system design, and scalable experimentation infrastructure",
+		"- 💬 Ask me about":                  "Product Management, Growth Experiments, Marketplace Platforms, Search & Discovery Systems, Product Analytics",
 		"- 📫 How to reach me:":              "https://echo-akash.github.io/",
 	}
 }
