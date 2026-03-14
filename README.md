@@ -52,24 +52,46 @@ func GetBio() Bio {
 
 
 
-**LANGUAGES AND TOOLS :man_technologist:**  
+**LANGUAGES & TOOLS :man_technologist:**  
 <br/>
 <br/>
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="40" width="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="40" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg"></code>
-<code><img height="40" width="40" src="https://github.com/get-icon/geticon/raw/master/icons/adobe-photoshop.svg"></code>
+<!-- Product Management -->
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/trello.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/asana.svg"></code>
+
+<!-- Collaboration -->
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"></code>
+
+<!-- Design & Prototyping -->
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/miro-2.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/whimsical.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/lucidchart.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg"></code>
+
+<!-- AI / LLM -->
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/openai-2.svg"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4"></code> <!-- LangChain -->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
+
+<!-- Experimentation / Analytics -->
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/google-search-console.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/ahrefs.svg"></code>
+
+<!-- Dev / Platform Awareness -->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"></code>
 
 
 <br/>
