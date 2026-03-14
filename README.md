@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Akash Poddar </h1>
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
+<img src="https://img.shields.io/badge/Age-29-blue" />
   <img src="https://img.shields.io/badge/Location-Bangladesh-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-brightgreen" />
 	<img src="https://komarev.com/ghpvc/?username=echo-akash&color=brightgreen" alt="watching_count" />
