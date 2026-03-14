@@ -1,40 +1,37 @@
-<h1 align="center">Hi 👋, I'm Akash Poddar</h1>
-
-<h3 align="center">
-Product Manager • AI Products • Marketplace Platforms • Growth Systems
-</h3>
+<h1 align="center">Hi 👋 I'm Akash Poddar</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Product_Manager-5%2B_Years-blue" />
-<img src="https://img.shields.io/badge/Focus-AI%20Products%20%26%20Marketplaces-success" />
-<img src="https://img.shields.io/badge/Location-Bangladesh-green" />
-<img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-brightgreen" />
-<img src="https://komarev.com/ghpvc/?username=echo-akash&color=brightgreen" />
+Product Manager • AI Products • Marketplace Platforms • Growth Systems
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Product_Manager-5%2B_Years-blue">
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Marketplaces%20%7C%20Growth-success">
+<img src="https://img.shields.io/badge/Location-Bangladesh-green">
+<img src="https://img.shields.io/badge/Languages-English%20%26%20Bangla-brightgreen">
 </p>
 
 ---
 
-# 🚀 About Me
+# 🚀 What I Do
 
-Product Manager with **5+ years of experience building and scaling consumer marketplaces, SaaS platforms, and AI-powered products.**
+I build **AI products and marketplace platforms** that grow through **experimentation, personalization, and data-driven product decisions.**
 
-I focus on building products that combine **user insight, data, and experimentation** to drive measurable impact.
+My work sits at the intersection of:
 
-Core areas I work on:
-
-• Product Strategy & Roadmapping  
-• Growth Systems & Experimentation  
-• Search, Discovery & Recommendation Systems  
-• AI Product Development & LLM Workflows  
-• Marketplace Optimization & Monetization  
+⚡ Product Strategy  
+📊 Growth Experiments  
+🔎 Search & Discovery Systems  
+🤖 AI Product Workflows  
+💰 Monetization & Marketplace Optimization  
 
 ---
 
-# 💼 Current Work
+# 🧩 Current Work
 
-**Product Manager — UX Pilot AI**
+### Product Manager — UX Pilot AI
 
-Working on an **AI-powered UX design and prototyping platform** helping teams generate and iterate product designs faster.
+Building an **AI-powered UX design & prototyping platform**.
 
 Focus areas:
 
@@ -42,90 +39,61 @@ Focus areas:
 • LLM-powered UX workflows  
 • Product activation & monetization  
 • User research & experimentation  
-• Simplifying design-to-product workflows  
 
 ---
 
-# 📈 Selected Product Impact
+# 📈 Product Impact
 
 ### Marketplace Growth — Pathao Food
 
-• Increased **Food Home → Restaurant conversion from 25% → 32% (+28% lift)** through funnel optimization and experimentation.
+📊 Increased **Food Home → Restaurant conversion**
+**25% → 32% (+28% lift)**
 
-• Built **personalized discovery systems**, improving collection CTR by **18%**.
+🔎 Built **personalized discovery systems**
+Improved CTR by **18%**
 
-• Redesigned **search ranking engine**, increasing search-to-order conversion by **22%**.
+🛒 Implemented **cart abandonment recovery**
+Recovered **6% abandoned carts**
 
-• Implemented **cart abandonment recovery**, recovering **6% abandoned carts** and increasing reorder basket size by **20%**.
-
----
-
-### Monetization & Growth Systems
-
-• Built **promo recommendation & stacking systems**, increasing promo-to-order conversion by **18%**.
-
-• Introduced **paid keyword boosting**, creating a new monetization stream for restaurant partners.
-
-• Launched **co-funded promotions**, improving campaign ROI by **20%+**.
+📈 Redesigned **search ranking**
+Improved search-to-order conversion by **22%**
 
 ---
 
-### Platform & Ecosystem Scaling
+# 🧠 Product Interests
 
-• Built **POS API integration framework**, reducing partner onboarding time by **35%**.
-
-• Led **Restaurant Web platform revamp**, reducing operational errors by **20%+**.
-
-• Implemented **RBAC and multi-branch account management**, reducing unauthorized access incidents by **90%**.
-
----
-
-# 🧠 Product Focus
-
-I’m especially interested in building products around:
+I'm particularly interested in building products around:
 
 • AI Product Platforms  
-• Product-Led Growth (PLG)  
+• Product-Led Growth  
 • Search & Discovery Systems  
-• Recommendation Systems  
+• Recommendation Engines  
 • Marketplace Platforms  
-• Experimentation Infrastructure  
 
 ---
 
-# 🛠 Product Tools & Technology
+# 🛠 Tools I Work With
 
 ### Product Management
+
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
-
-### Collaboration
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 
 ### Design & UX
+
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-<img height="40" src="https://cdn.simpleicons.org/miro/050038">
-<img height="40" src="https://cdn.simpleicons.org/lucidchart/F36D21">
 
 ### AI & Data
-<img height="40" src="https://cdn.simpleicons.org/openai/412991">
-<img height="40" src="https://cdn.simpleicons.org/langchain/000000">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
 
-### Analytics & Growth
-<img height="40" src="https://cdn.simpleicons.org/googleanalytics/E37400">
-<img height="40" src="https://cdn.simpleicons.org/googlesearchconsole/458CF5">
-<img height="40" src="https://cdn.simpleicons.org/ahrefs/FF8800">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 
 ### Engineering Awareness
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
 
 ---
 
@@ -134,7 +102,7 @@ I’m especially interested in building products around:
 <p align="center">
 
 <a href="https://www.linkedin.com/in/akash-poddar/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30">
 </a>
 
 <a href="https://echo-akash.github.io/">
